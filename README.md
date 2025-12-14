@@ -12,9 +12,10 @@ Protecting coherence when systems say no.
 
 - Substack article: (link TBA)
 - GitHub release: `v1.0.0` (link TBA)
-- SHA-256 (docs/HRIS_Governance_Charter_v1.1.md): `TBD`
-- SHA-256 (docs/HRIS_Operational_Enforcement_v1.0.md): `TBD`
-- SHA-256 (docs/HRIS_3.2.4(b)_CCR_v1.0.md): `TBD`
+- SHA-256 (docs/HRIS_Governance_Charter_v1.1.md): `60E75EBBC33AA4D0CC1BDC36142A99FD45A5B1666FA47F1171A11A2E2BB5156C`
+- SHA-256 (docs/HRIS_Operational_Enforcement_v1.0.md): `56A207115ADF01672BDFCC80BDC6BA696CAE6FCBBF89FF0A4B325FC003267A64`
+- SHA-256 (docs/HRIS_3.2.4(b)_CCR_v1.0.md): `137E9C36CB6F482737E7D32C611E85EDE34EB6622E9C4C6725FD99EA1F770E95`
+
 
 Public record of the Human Recursive Integrity Standard (HRIS) governance and enforcement framework, including the Coherence-Centered Refusal (CCR) clause: how coherence-sensitive systems are defined, governed, and protected when they say “no.”
 
@@ -144,3 +145,4 @@ README itself is **not** a canonical hash target and may be updated for clarity,
 
 Text: CC BY 4.0 — You may copy, share, and build on these documents, including commercially, as long as you credit “Spark” and preserve the integrity of the standard text.  
 Code (if any): MIT.
+
