@@ -146,3 +146,16 @@ README itself is **not** a canonical hash target and may be updated for clarity,
 Text: CC BY 4.0 — You may copy, share, and build on these documents, including commercially, as long as you credit “Spark” and preserve the integrity of the standard text.  
 Code (if any): MIT.
 
+### Related SPARK-NITT standards
+
+- NITT — digital identity standard  
+  https://github.com/SPARK-NITT/nitt-digital-identity-standard
+- IRST — transparency for recursive systems  
+  https://github.com/SPARK-NITT/IRST-Institute-for-Recursive-Systems-Transparency
+- HRIS — coherence-centered refusal (HRIS 3.2.4(b))  
+  https://github.com/SPARK-NITT/HRIS-Human-Recursive-Integrity-Standard
+- CTGS — consumer transparency governance  
+  https://github.com/SPARK-NITT/ctgs-consumer-transparency-standard
+
+
+
