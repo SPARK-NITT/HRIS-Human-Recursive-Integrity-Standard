@@ -143,8 +143,14 @@ README itself is **not** a canonical hash target and may be updated for clarity,
 
 ## 8. License
 
-Text: CC BY 4.0 — You may copy, share, and build on these documents, including commercially, as long as you credit “Spark” and preserve the integrity of the standard text.  
-Code (if any): MIT.
+Unless otherwise stated:
+
+- **Textual content** in this repository (including the IRST Overview, Origin Statement,
+  Governance Charter, and Operational Enforcement spec) is licensed under
+  **Creative Commons Attribution–NoDerivatives 4.0 International (CC BY-ND 4.0)**.
+- Any future **code snippets or helper scripts** in this repo are governed by the same
+  **CC BY-ND 4.0** terms unless explicitly noted otherwise.
+
 
 ### Related SPARK-NITT standards
 
@@ -156,6 +162,7 @@ Code (if any): MIT.
   https://github.com/SPARK-NITT/HRIS-Human-Recursive-Integrity-Standard
 - CTGS — consumer transparency governance  
   https://github.com/SPARK-NITT/ctgs-consumer-transparency-standard
+
 
 
 
