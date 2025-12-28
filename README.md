@@ -143,13 +143,11 @@ README itself is **not** a canonical hash target and may be updated for clarity,
 
 ## 8. License
 
-Unless otherwise stated:
+Non-commercial redistribution is allowed **only as an unchanged copy**. **No derivatives.**
+Commercial use (including sale/monetization) requires a separate paid license from the author.
 
-- **Textual content** in this repository (including the IRST Overview, Origin Statement,
-  Governance Charter, and Operational Enforcement spec) is licensed under
-  **Creative Commons Attribution–NoDerivatives 4.0 International (CC BY-ND 4.0)**.
-- Any future **code snippets or helper scripts** in this repo are governed by the same
-  **CC BY-ND 4.0** terms unless explicitly noted otherwise.
+See `LICENSE`.
+
 
 
 ### Related SPARK-NITT standards
@@ -162,6 +160,7 @@ Unless otherwise stated:
   https://github.com/SPARK-NITT/HRIS-Human-Recursive-Integrity-Standard
 - CTGS — consumer transparency governance  
   https://github.com/SPARK-NITT/ctgs-consumer-transparency-standard
+
 
 
 
